@@ -10,10 +10,17 @@
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+
+  -Setting up virutal machine to create OsTicket 
+
 ![vm-osticket](https://github.com/user-attachments/assets/d4bc1fa9-b50a-4b45-a811-0a5bb45d00d7)
 
-![osticketcomplete](https://github.com/user-attachments/assets/15bc0bf0-847f-40a9-9fc6-a1e715d2b488)
+  -Configuring osTicket in IIS Manager
 
+![osticket](https://github.com/user-attachments/assets/50218f43-ae25-46ce-b0fd-966d723d40a0)
+
+  -OsTicket setup complete
+  
 ![osticketcomplete](https://github.com/user-attachments/assets/f3a3aacf-949e-4199-b4db-da042a1a5b09)
 
 
